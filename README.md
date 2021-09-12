@@ -1,2 +1,0 @@
-# EggTimer
-iOS Swift testing
